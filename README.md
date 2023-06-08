@@ -7,5 +7,12 @@
 
 ![demo](cmp.gif)  
 
+
+![demo](4.jpg)   
   
-[tutorial](https://www.tonyisstark.com/1240.html)  
+# 使用方法
+
+打开.ipynb文件，然后点击open in colab 就可以开始使用了，详细的使用教程，点[这里](https://www.tonyisstark.com/1240.html) 
+
+
+
